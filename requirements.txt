@@ -9,3 +9,6 @@ networkx==2.6.
 matplotlib
 scipy==1.7.3
 plotly
+leidenalg
+scikit-learn
+cdlib
