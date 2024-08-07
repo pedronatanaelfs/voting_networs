@@ -32,6 +32,10 @@ This project aims to analyze the influence and behavior of various political gro
      conda activate camara-analysis
      ```
 
+     IF THERE WAS A PROBLEM INITIALIZING CONDA:
+     source ~/.bash_profile
+
+
 3. **Install Dependencies**:
    - Ensure you have a `requirements.txt` file in the repository.
    - Install the required Python packages by running:
