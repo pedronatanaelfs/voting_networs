@@ -1,0 +1,5 @@
+streamlit==1.2.0
+networkx==2.6.3
+csvkit==1.0.6
+igraph==0.9.11
+leidenalg==0.8.7
