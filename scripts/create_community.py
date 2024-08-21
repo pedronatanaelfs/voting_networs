@@ -331,6 +331,8 @@ votacao_plenario = votacao_ano.loc[votacao_ano['nome_orgao'] == 'Plenário']
 
 # Create Connections
 connections = calculate_connections_similarity(votacao_plenario)
+
+# Prune Nodes
 filtered_connections = filter_connections(connections, threshold)
 
 # Detect Community
